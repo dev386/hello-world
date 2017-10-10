@@ -7,4 +7,4 @@ In the editor, write a bit about yourself.</br>
 Write a commit message that describes your changes.</br>
 Click Commit changes button.</br>
 
-
+Additional row on the bottom of the file.</br>
